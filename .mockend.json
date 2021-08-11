@@ -1,7 +1,8 @@
 {
-  "Person": {
-    "nome": {
-      "String": {"Uillas"}     
+  "Post": {
+    "title": "string",
+    "views":"int",
+    "created":"date",
     }
   }
 }
