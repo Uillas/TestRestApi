@@ -1,6 +1,8 @@
 {
-  "account": {
-    "id":"123",
-    "name":"uillas"    
-  }  
+  "Person": {
+    "name": {
+      "String": {} | [
+      "Uillas","Thor"]
+    }
+  }
 }
