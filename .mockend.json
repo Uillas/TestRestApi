@@ -1,8 +1,6 @@
 {
-  "name": {
-    "string": [
-      "Thor",
-      "Loki"
-    ]
-  }
+  "account": {
+    "id":"123",
+    "name":"uillas"    
+  }  
 }
