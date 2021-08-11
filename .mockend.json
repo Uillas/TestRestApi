@@ -1,8 +1,7 @@
 {
   "Person": {
     "name": {
-      "String": {} | [
-      "Uillas","Thor"]
+      "String": {"Uillas"}     
     }
   }
 }
