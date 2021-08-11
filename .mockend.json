@@ -1,4 +1,7 @@
 {
+  "Person": {
+    "name": { "string": {} },
+  },
   "Post": {
     "title": { "string": {} },
     "comments": {
