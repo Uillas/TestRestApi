@@ -2,7 +2,7 @@
   "Person": {
     "name": { "string": {} },
     "external_id":{ "int" :{"min":100000, "max":200000}}},
-    "close_date": {
+    "createdAt": {
       "min": "2021-01-01T00:00:00Z",
       "max": "2020-07-31T23:59:59Z"
     }
