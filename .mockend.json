@@ -1,6 +1,9 @@
 {
   "Person": {
-    "name": { "string": {} }
+    "name": { "string": [
+                         "Uillas",
+                         "Monica" 
+                        ] }
   },
   "Post": {
     "title": { "string": {} },
